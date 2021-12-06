@@ -56,7 +56,6 @@ namespace ReportService.Services.Impl
             {
                 act.Item1(act.Item2, report);
             }
-            report.Save();
             return report.S;
 
         }
