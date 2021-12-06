@@ -1,0 +1,29 @@
+C:\RepoTemp\ReportService-master-Orig\ReportService\ReportService\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\RepoTemp\ReportService-master-Orig\ReportService\ReportService\bin\Debug\netcoreapp2.0\appsettings.json
+C:\RepoTemp\ReportService-master-Orig\ReportService\ReportService\bin\Debug\netcoreapp2.0\ReportService.deps.json
+C:\RepoTemp\ReportService-master-Orig\ReportService\ReportService\bin\Debug\netcoreapp2.0\ReportService.runtimeconfig.json
+C:\RepoTemp\ReportService-master-Orig\ReportService\ReportService\bin\Debug\netcoreapp2.0\ReportService.runtimeconfig.dev.json
+C:\RepoTemp\ReportService-master-Orig\ReportService\ReportService\bin\Debug\netcoreapp2.0\ReportService.dll
+C:\RepoTemp\ReportService-master-Orig\ReportService\ReportService\bin\Debug\netcoreapp2.0\ReportService.pdb
+C:\RepoTemp\ReportService-master-Orig\ReportService\ReportService\bin\Debug\netcoreapp2.0\MonthNameResolver.dll
+C:\RepoTemp\ReportService-master-Orig\ReportService\ReportService\obj\Debug\netcoreapp2.0\ReportService.csprojAssemblyReference.cache
+C:\RepoTemp\ReportService-master-Orig\ReportService\ReportService\obj\Debug\netcoreapp2.0\ReportService.AssemblyInfoInputs.cache
+C:\RepoTemp\ReportService-master-Orig\ReportService\ReportService\obj\Debug\netcoreapp2.0\ReportService.AssemblyInfo.cs
+C:\RepoTemp\ReportService-master-Orig\ReportService\ReportService\obj\Debug\netcoreapp2.0\ReportService.csproj.CopyComplete
+C:\RepoTemp\ReportService-master-Orig\ReportService\ReportService\obj\Debug\netcoreapp2.0\ReportService.dll
+C:\RepoTemp\ReportService-master-Orig\ReportService\ReportService\obj\Debug\netcoreapp2.0\ReportService.pdb
+C:\RepoTemp\ReportService-master-Orig\ReportService\ReportService\obj\Debug\netcoreapp2.0\ReportService.csproj.CoreCompileInputs.cache
+C:\RepoTemp\ReportService-master-Orig\ReportService\ReportService\obj\Debug\netcoreapp2.0\ReportService.genruntimeconfig.cache
+C:\Users\home\Desktop\c# project\ReportService\ReportService\bin\Debug\netcoreapp2.0\ReportService.deps.json
+C:\Users\home\Desktop\c# project\ReportService\ReportService\bin\Debug\netcoreapp2.0\ReportService.runtimeconfig.json
+C:\Users\home\Desktop\c# project\ReportService\ReportService\bin\Debug\netcoreapp2.0\ReportService.runtimeconfig.dev.json
+C:\Users\home\Desktop\c# project\ReportService\ReportService\bin\Debug\netcoreapp2.0\ReportService.dll
+C:\Users\home\Desktop\c# project\ReportService\ReportService\bin\Debug\netcoreapp2.0\ReportService.pdb
+C:\Users\home\Desktop\c# project\ReportService\ReportService\bin\Debug\netcoreapp2.0\MonthNameResolver.dll
+C:\Users\home\Desktop\c# project\ReportService\ReportService\obj\Debug\netcoreapp2.0\ReportService.csprojAssemblyReference.cache
+C:\Users\home\Desktop\c# project\ReportService\ReportService\obj\Debug\netcoreapp2.0\ReportService.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\c# project\ReportService\ReportService\obj\Debug\netcoreapp2.0\ReportService.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\c# project\ReportService\ReportService\obj\Debug\netcoreapp2.0\ReportService.AssemblyInfo.cs
+C:\Users\home\Desktop\c# project\ReportService\ReportService\obj\Debug\netcoreapp2.0\ReportService.csproj.CopyComplete
+C:\Users\home\Desktop\c# project\ReportService\ReportService\obj\Debug\netcoreapp2.0\ReportService.dll
+C:\Users\home\Desktop\c# project\ReportService\ReportService\obj\Debug\netcoreapp2.0\ReportService.pdb

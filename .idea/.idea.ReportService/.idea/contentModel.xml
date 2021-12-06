@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\home\.nuget\packages\mysql.data\6.10.6\contentFiles\any\netcoreapp2.0\app.config.transform" t="Include" />
+    <e p="C:\Users\home\.nuget\packages\mysql.data\6.10.6\contentFiles\any\netcoreapp2.0\docs" t="Include">
+      <e p="MySqlCommand.xml" t="Include" />
+      <e p="MySqlCommandBuilder.xml" t="Include" />
+      <e p="MySqlConnection.xml" t="Include" />
+      <e p="MySqlConnectionStringBuilder.xml" t="Include" />
+      <e p="MySqlDataAdapter.xml" t="Include" />
+      <e p="MySqlDataReader.xml" t="Include" />
+      <e p="MySqlException.xml" t="Include" />
+      <e p="MySqlHelper.xml" t="Include" />
+      <e p="MySqlParameter.xml" t="Include" />
+      <e p="MySqlParameterCollection.xml" t="Include" />
+      <e p="MySqlTransaction.xml" t="Include" />
+    </e>
+    <e p="C:\Users\home\.nuget\packages\mysql.data\6.10.6\contentFiles\any\netcoreapp2.0\web.config.transform" t="Include" />
+    <e p="C:\Users\home\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\home\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_ReportService.-1584941279.00" t="ExcludeRecursive" />
+    <e p="C:\Users\home\AppData\Roaming\JetBrains\Rider2020.2\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\home\AppData\Roaming\JetBrains\Rider2020.2\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\home\Desktop\c# project\ReportService" t="IncludeRecursive">
+      <e p=".dockerignore" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="docker-compose.ci.build.yml" t="Include" />
+      <e p="docker-compose.dcproj" t="IncludeRecursive" />
+      <e p="docker-compose.override.yml" t="Include" />
+      <e p="docker-compose.yml" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="ReportService" t="IncludeRecursive">
+        <e p="AppDbContext.cs" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="ReportController.cs" t="Include" />
+        </e>
+        <e p="dbsettings.json" t="Include" />
+        <e p="Dockerfile" t="Include" />
+        <e p="Domain" t="Include">
+          <e p="CheckEmployeeResult.cs" t="Include" />
+          <e p="Common.cs" t="Include" />
+          <e p="EmpCodeResolver.cs" t="Include" />
+          <e p="EmployeeInPayroll.cs" t="Include" />
+          <e p="EmployeeListSelectorContract.cs" t="Include" />
+          <e p="EPaymentType.cs" t="Include" />
+          <e p="EPayrollStatus.cs" t="Include" />
+          <e p="OrderPayrollContract.cs" t="Include" />
+          <e p="Payroll.cs" t="Include" />
+          <e p="PayrollEmployee.cs" t="Include" />
+          <e p="PayrollEmployeeListOutContract.cs" t="Include" />
+          <e p="PayrollFormingStatusChanged.cs" t="Include" />
+          <e p="PayrollInLayer.cs" t="Include" />
+          <e p="PayrollInList.cs" t="Include" />
+          <e p="PayrollListOutContract.cs" t="Include" />
+          <e p="PayrollListSelectorContract.cs" t="Include" />
+          <e p="PayrollWidgetData.cs" t="Include" />
+          <e p="Report.cs" t="Include" />
+          <e p="ReportFormatter.cs" t="Include" />
+          <e p="UpsertPayrollReceived.cs" t="Include" />
+        </e>
+        <e p="Model" t="Include">
+          <e p="Department.cs" t="Include" />
+          <e p="Employee.cs" t="Include" />
+        </e>
+        <e p="MonthResolver" t="Include">
+          <e p="MonthNameResolver.dll" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="ReportService.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="ReportService.csproj" t="IncludeRecursive" />
+        <e p="Repository" t="Include">
+          <e p="IDepartmentRepository.cs" t="Include" />
+          <e p="IEmployeeRepository.cs" t="Include" />
+          <e p="Impl" t="Include">
+            <e p="DepartmentRepository.cs" t="Include" />
+            <e p="EmployeeRepository.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Services" t="Include">
+          <e p="IAccountingReportForMonthService.cs" t="Include" />
+          <e p="Impl" t="Include">
+            <e p="AccountingReportForMonthService.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="TestDataBase" t="Include" />
+        <e p="TestDataBase.db" t="Include" />
+        <e p="wwwroot" t="Include" />
+      </e>
+      <e p="ReportService.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

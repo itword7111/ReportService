@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=(localdb)\\TestDataBase;Database=TestDataBase;Trusted_Connection=True;"
+  }
+}
