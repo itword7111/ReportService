@@ -1,7 +1,9 @@
 ﻿
 using System;
 using System.IO;
+using System.Text;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Net.Http.Headers;
 using Org.BouncyCastle.Utilities;
 using ReportService.Services;
 namespace ReportService.Controllers
@@ -23,11 +25,8 @@ namespace ReportService.Controllers
         [Route("{year}/{month}")]
         public IActionResult Download(int year, int month)
         {
-            
             string reportString = _accountingReportForMonthService.GetReportForMonth(year,month);
-            var file = System.IO.File.ReadAllBytes("E:\\report.txt");
-            var response = File(file, "application/octet-stream","report.txt");
-            return response;
+            return File(Encoding.UTF8.GetBytes(reportString), "application/octet-stream", "report.txt");
         }
     }
 }
